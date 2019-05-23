@@ -1,11 +1,11 @@
 class Translation(object):
     START_TEXT = """Thank You for using me.
 /help to know how to use me
-Source Code: https://github.com/Thwarikh/FmDL_Bot
-© @FmDL_Bot"""
+Powerd By TEAM MAPTAP
+© @MTUploader_Bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
+    UPGRADE_TEXT = "Contact @MTMOVIES_ADMIN_bot"
     #UPGRADE_TEXT = """ @FmDL_Bot Paid Plans
 #-------
 #Plan: FREE
