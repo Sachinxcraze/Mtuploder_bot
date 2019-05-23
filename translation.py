@@ -98,7 +98,7 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/Flowers_TV'>{}</a>
+Plan name: <a href='https://t.me/MT_MaptapMovies'>{}</a>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
 👉 <a href="#">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, with custom file name and custom thumbnail support</a>
