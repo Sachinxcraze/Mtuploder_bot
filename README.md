@@ -1,9 +1,9 @@
-## [FmDLBot](https://telegram.org/FmDL_Bot)
+## [MTUPLODER](https://github.com/TeamMaptap)
 
 **There are multiple things I can do:**:
 
 **FEATURES**:  
-![​](https://telegra.ph/file/92da763236c0b6768073a.jpg)
+![​](https://1.bp.blogspot.com/-1Whyat9juc4/XOrzeCamCpI/AAAAAAAABQE/Nhy5SJ9zGTAgAz_V7w8EsY6Fx5Al0iAVACLcBGAs/s1600/IMG_20190527_013530_890.jpg)
 
 
 ### Installation
@@ -24,7 +24,9 @@ python bot.py
 ```
 #### Suggestions
 
-- For FeedBack and Suggestions, please feel free to say in [@Thwarikh](https://telegram.org/thwarikh)
+- For FeedBack and Suggestions, please feel free to say in [@DwayneJohnsonn](https://github.com/TeamMaptap)
 
 #### LICENSE
 - GPLv3
+
+
