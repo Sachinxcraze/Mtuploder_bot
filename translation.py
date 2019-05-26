@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Thank You for using me.
 /help to know how to use me
-Powerd By TEAM MAPTAP
+Source Code https://github.com/TeamMaptap/Mtuploder_bot
 © @MTUploader_Bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
