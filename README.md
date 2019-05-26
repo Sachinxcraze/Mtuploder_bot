@@ -24,7 +24,7 @@ python bot.py
 ```
 #### Suggestions
 
-- For FeedBack and Suggestions, please feel free to say in [@DwayneJohnsonn](https://telegram.org/DwayneJohnson)
+- For FeedBack and Suggestions, please feel free to say in [@DwayneJohnsonn](https://t.me/DwayneJohnsonn)
 
 #### LICENSE
 - GPLv3
