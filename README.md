@@ -9,7 +9,7 @@
 ### Installation
 #### Deploy to heroku using the button below.
 
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSpEcHiDe%2FAnyDLBot&template=https%3A%2F%2Fgithub.com%2FSpEcHiDe%2FAnyDLBot
+
 #### On Local Computer
 
 ```sh
