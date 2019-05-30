@@ -24,7 +24,7 @@ else:
 from translation import Translation
 
 import pyrogram
-logging.getLogger("pyrogram").setLevel(logging.INFO)
+logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 from helper_funcs.chat_base import TRChatBase
 from helper_funcs.display_progress import progress_for_pyrogram
@@ -61,8 +61,6 @@ def get_link(bot, update):
             progress_args=(Translation.DOWNLOAD_START, a.message_id, update.chat.id, c_time)
         )
         download_extension = after_download_file_name.rsplit(".", 1)[-1]
-        upload_name=after_download_file_name.rsplit("/",1)[-1]
-        upload_name=upload_name.replace(" ","_")
         bot.edit_message_text(
             text=Translation.SAVED_RECVD_DOC_FILE,
             chat_id=update.chat.id,
@@ -83,8 +81,8 @@ def get_link(bot, update):
             adfulurl = file_inance.webContentLink
             max_days = 0
         else:
-            url = "https://transfer.sh/{}".format(upload_name)
-            max_days = "3"
+            url = "https://transfer.sh/{}.{}".format(str(update.from_user.id), str(download_extension))
+            max_days = "5"
             command_to_exec = [
                 "curl",
                 # "-H", 'Max-Downloads: 1',
@@ -130,3 +128,5 @@ def get_link(bot, update):
             text=Translation.REPLY_TO_DOC_GET_LINK,
             reply_to_message_id=update.message_id
         )
+        
+
