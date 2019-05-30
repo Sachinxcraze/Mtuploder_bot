@@ -1,5 +1,5 @@
 {
-  "name": "FmDl_bot",
+  "name": "MTUploader_Bot",
   "description": "Telegram's best YouTube Downloader. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,7 +8,7 @@
     "downloader",
     "3"
   ],
-  "repository": "https://github.com/thwarikh/FmDl_bot",
+  "repository": "https://github.com/TeamMaptap/Mtuploder_bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -36,7 +36,7 @@
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
-      "value": "https://kccl.tv/sites/default/files/Flowers-Channel.jpg",
+      "value": "https://4.bp.blogspot.com/-vIE5DpOEGPs/XOW7EF-FBdI/AAAAAAAABPo/W839tn0lrgUoXY7_5cFYDdNruPdayz27wCEwYBhgL/s1600/eiWIUCJ96185.jpg",
       "required": false
     },
     "CHUNK_SIZE": {
