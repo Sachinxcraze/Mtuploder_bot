@@ -1,10 +1,10 @@
 class Translation(object):
-    START_TEXT = """HEY {username}.
+    START_TEXT = """HEY .
 Iam Telegram File Rename Bot!
 
 You can rename any Telegram Document, using this bot
 
-© @MTUploader_Bot"""
+© @MtRenamer_bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @MTMOVIES_ADMIN_bot"
