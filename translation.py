@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """HEY {username}
+    START_TEXT = """HEY <username>
 Iam Telegram File Rename Bot!
 
 You can rename any Telegram Document, using this bot
